@@ -1,6 +1,7 @@
 环境
-Java1.8
+Java 1.8
 Node.js 18.16.0+
+maven 2.6.3
 
 下载运行代码
 点击code下载代码的压缩包(zip)
