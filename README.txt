@@ -2,6 +2,7 @@
 Java1.8
 Node.js 18.16.0+
 
+下载运行代码
 点击code下载代码的压缩包(zip)
 下载解压完成后在IDE中打开
 首先加载maven项目，导入pom.xml
