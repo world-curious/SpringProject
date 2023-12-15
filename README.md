@@ -7,11 +7,11 @@
 
 # 下载运行代码
 
-## 通过git
+### 通过git
 ```sh
  git clone https://github.com/world-curious/SpringProject.git
 ```
-## 直接下载
+### 或者直接下载
  点击code下载代码的压缩包(zip)
 
  下载解压完成后在IDE中打开
